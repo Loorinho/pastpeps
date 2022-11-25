@@ -1,0 +1,112 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Bachelor of Science in Software Engineering",
+      "shortname": "bsse"
+    },
+    {
+      "id": 2,
+      "name": "Bachelor of Science in Information Systems and Technology",
+      "shortname": "bist"
+    },
+    {
+      "id": 3,
+      "name": "Bachelor of Science in Mechanical Engineering",
+      "shortname": "bsme"
+    },
+    {
+      "id": 4,
+      "name": "Bachelor of Science in Computer Science",
+      "shortname": "bscs"
+    },
+    {
+      "id": 5,
+      "name": "Bachelor of Science in Electical Engineering",
+      "shortname": "bsee"
+    },
+    {
+      "id": 6,
+      "name": "Bachelor of Science in Petroleum Engineering",
+      "shortname": "bspe"
+    }
+  ],
+
+  "courseunits": [
+    {
+      "courseunit": "Structured programming",
+      "coursecode": "CSC 1107",
+      "shortname": "strct"
+    },
+    {
+      "courseunit": "Object Oriented Programming",
+      "coursecode": "CSC 1214 and BSE 1209",
+      "shortname": "oop"
+    },
+    {
+      "courseunit": "Network Application Development",
+      "coursecode": "BSE 2205",
+      "shortname": "nad"
+    },
+    {
+      "courseunit": "System Analysis and Design",
+      "coursecode": "CSC 1212",
+      "shortname": "sad"
+    },
+    {
+      "courseunit": "Calculus 1",
+      "coursecode": "MTH 1203",
+      "shortname": "calc"
+    },
+    {
+      "courseunit": "Computer Networks",
+      "coursecode": "BSE 2106",
+      "shortname": "conet"
+    },
+    {
+      "courseunit": "Artificial Intelligence",
+      "coursecode": "CSC 2114",
+      "shortname": "ai"
+    },
+    {
+      "courseunit": "Computer Architecture and organization",
+      "coursecode": "CSC 1104",
+      "shortname": "carch"
+    },
+    {
+      "courseunit": "Data Structures and algorithms",
+      "coursecode": "CSC 2100",
+      "shortname": "dstructures"
+    },
+    {
+      "courseunit": "Computer Literacy",
+      "coursecode": "CSC 1100",
+      "shortname": "cliteracy"
+    },
+    {
+      "courseunit": "Discrete Mathematics",
+      "coursecode": "MTH 3105",
+      "shortname": "dmath"
+    },
+    {
+      "courseunit": "Software Development Principles",
+      "coursecode": "BSE 1206",
+      "shortname": "sdp"
+    },
+    {
+      "courseunit": "Data and Information Management 1",
+      "coursecode": "BSE 1204",
+      "shortname": "dim"
+    },
+    {
+      "courseunit": "Operating Systems",
+      "coursecode": "CSC 2200",
+      "shortname": "os"
+    },
+    {
+      "courseunit": "Data Communication",
+      "coursecode": "BSE 2205",
+      "shortname": "dcom"
+    }
+  ]
+}
